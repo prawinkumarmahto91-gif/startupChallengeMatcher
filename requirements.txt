@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+jupyter
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pgvector

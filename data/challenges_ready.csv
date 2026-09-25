@@ -1,0 +1,91 @@
+challenge_id,title,problem,sector,technologies,desired_outcome,location,budget,mandatory_requirements,embedding_text
+101,Waste Collection Optimization,"Municipal waste trucks follow fixed routes regardless of actual bin fill levels, wasting fuel and missing overflowing bins.",Waste Management,"AI route optimization, GPS tracking, IoT sensors",Reduce fuel cost and missed collections through dynamic routing.,Pune,50,DPIIT recognition required,"Challenge: Waste Collection Optimization
+Problem: Municipal waste trucks follow fixed routes regardless of actual bin fill levels, wasting fuel and missing overflowing bins.
+Sector: Waste Management
+Required Technologies: AI route optimization, GPS tracking, IoT sensors
+Desired Outcome: Reduce fuel cost and missed collections through dynamic routing.
+Location: Pune"
+102,Hospital Patient Flow Optimization,Government hospitals face long patient queues and inefficient bed allocation.,Healthcare,"Queue management software, Predictive analytics",Reduce average patient wait time and improve bed utilization.,Hyderabad,65,ISO 27001 certification required,"Challenge: Hospital Patient Flow Optimization
+Problem: Government hospitals face long patient queues and inefficient bed allocation.
+Sector: Healthcare
+Required Technologies: Queue management software, Predictive analytics
+Desired Outcome: Reduce average patient wait time and improve bed utilization.
+Location: Hyderabad"
+103,Crop Disease Detection,"Farmers lack early warning tools for crop disease, leading to yield loss.",Agriculture,"Computer vision, ML disease detection",Early detection of crop disease via field-image analysis.,Indore,30,No mandatory certification,"Challenge: Crop Disease Detection
+Problem: Farmers lack early warning tools for crop disease, leading to yield loss.
+Sector: Agriculture
+Required Technologies: Computer vision, ML disease detection
+Desired Outcome: Early detection of crop disease via field-image analysis.
+Location: Indore"
+104,Urban Traffic Management,Fixed-timing traffic signals cause congestion during peak hours in growing cities.,Smart City,"AI traffic prediction, Adaptive signal control",Reduce average commute time through adaptive signal control.,Bengaluru,75,DPIIT recognition required,"Challenge: Urban Traffic Management
+Problem: Fixed-timing traffic signals cause congestion during peak hours in growing cities.
+Sector: Smart City
+Required Technologies: AI traffic prediction, Adaptive signal control
+Desired Outcome: Reduce average commute time through adaptive signal control.
+Location: Bengaluru"
+105,Water Leak Detection,"Underground pipeline leaks go undetected for months, wasting treated water.",Water Management,"IoT leak detection, Acoustic sensors",Detect and localize leaks within days instead of months.,Chennai,45,No mandatory certification,"Challenge: Water Leak Detection
+Problem: Underground pipeline leaks go undetected for months, wasting treated water.
+Sector: Water Management
+Required Technologies: IoT leak detection, Acoustic sensors
+Desired Outcome: Detect and localize leaks within days instead of months.
+Location: Chennai"
+106,Smart Parking Management,The government department is facing operational inefficiencies in smart city that require a technology-driven solution.,Smart City,"GPS tracking, Computer vision, AI traffic prediction",Improve measurable outcomes related to smart city operations.,Ahmedabad,100,ISO 27001 certification required,"Challenge: Smart Parking Management
+Problem: The government department is facing operational inefficiencies in smart city that require a technology-driven solution.
+Sector: Smart City
+Required Technologies: GPS tracking, Computer vision, AI traffic prediction
+Desired Outcome: Improve measurable outcomes related to smart city operations.
+Location: Ahmedabad"
+107,Predictive Policing for Crime Hotspots,The government department is facing operational inefficiencies in public safety that require a technology-driven solution.,Public Safety,"GPS tracking, Computer vision surveillance, IoT emergency sensors",Improve measurable outcomes related to public safety operations.,Bhopal,20,DPIIT recognition required,"Challenge: Predictive Policing for Crime Hotspots
+Problem: The government department is facing operational inefficiencies in public safety that require a technology-driven solution.
+Sector: Public Safety
+Required Technologies: GPS tracking, Computer vision surveillance, IoT emergency sensors
+Desired Outcome: Improve measurable outcomes related to public safety operations.
+Location: Bhopal"
+108,Predictive Policing for Crime Hotspots - Phase 3,The government department is facing operational inefficiencies in public safety that require a technology-driven solution.,Public Safety,"GPS tracking, Computer vision surveillance",Improve measurable outcomes related to public safety operations.,Jaipur,51,DPIIT recognition required,"Challenge: Predictive Policing for Crime Hotspots - Phase 3
+Problem: The government department is facing operational inefficiencies in public safety that require a technology-driven solution.
+Sector: Public Safety
+Required Technologies: GPS tracking, Computer vision surveillance
+Desired Outcome: Improve measurable outcomes related to public safety operations.
+Location: Jaipur"
+109,Digital Attendance and Learning Tracking,The government department is facing operational inefficiencies in education that require a technology-driven solution.,Education,"Attendance tracking IoT, NLP tutoring",Improve measurable outcomes related to education operations.,Kochi,76,Minimum 3 years of experience required,"Challenge: Digital Attendance and Learning Tracking
+Problem: The government department is facing operational inefficiencies in education that require a technology-driven solution.
+Sector: Education
+Required Technologies: Attendance tracking IoT, NLP tutoring
+Desired Outcome: Improve measurable outcomes related to education operations.
+Location: Kochi"
+110,Smart Grid Load Balancing,The government department is facing operational inefficiencies in energy that require a technology-driven solution.,Energy,"IoT energy meters, Demand forecasting AI, Solar output prediction",Improve measurable outcomes related to energy operations.,Chennai,51,No mandatory certification,"Challenge: Smart Grid Load Balancing
+Problem: The government department is facing operational inefficiencies in energy that require a technology-driven solution.
+Sector: Energy
+Required Technologies: IoT energy meters, Demand forecasting AI, Solar output prediction
+Desired Outcome: Improve measurable outcomes related to energy operations.
+Location: Chennai"
+111,Smart Grid Load Balancing - Phase 5,The government department is facing operational inefficiencies in energy that require a technology-driven solution.,Energy,"Predictive maintenance ML, Demand forecasting AI",Improve measurable outcomes related to energy operations.,Mumbai,56,ISO 27001 certification required,"Challenge: Smart Grid Load Balancing - Phase 5
+Problem: The government department is facing operational inefficiencies in energy that require a technology-driven solution.
+Sector: Energy
+Required Technologies: Predictive maintenance ML, Demand forecasting AI
+Desired Outcome: Improve measurable outcomes related to energy operations.
+Location: Mumbai"
+112,Fraud Detection in Welfare Disbursement,The government department is facing operational inefficiencies in fintech that require a technology-driven solution.,Fintech,"Risk scoring models, Fraud detection ML, Credit analytics",Improve measurable outcomes related to fintech operations.,Bengaluru,49,Minimum 3 years of experience required,"Challenge: Fraud Detection in Welfare Disbursement
+Problem: The government department is facing operational inefficiencies in fintech that require a technology-driven solution.
+Sector: Fintech
+Required Technologies: Risk scoring models, Fraud detection ML, Credit analytics
+Desired Outcome: Improve measurable outcomes related to fintech operations.
+Location: Bengaluru"
+113,Agriculture Improvement Initiative,The government department is facing operational inefficiencies in agriculture that require a technology-driven solution.,Agriculture,"Computer vision, IoT soil sensors",Improve measurable outcomes related to agriculture operations.,Ahmedabad,62,Minimum 3 years of experience required,"Challenge: Agriculture Improvement Initiative
+Problem: The government department is facing operational inefficiencies in agriculture that require a technology-driven solution.
+Sector: Agriculture
+Required Technologies: Computer vision, IoT soil sensors
+Desired Outcome: Improve measurable outcomes related to agriculture operations.
+Location: Ahmedabad"
+114,Predictive Policing for Crime Hotspots - Phase 2,The government department is facing operational inefficiencies in public safety that require a technology-driven solution.,Public Safety,"GPS tracking, Predictive policing analytics",Improve measurable outcomes related to public safety operations.,Patna,94,DPIIT recognition required,"Challenge: Predictive Policing for Crime Hotspots - Phase 2
+Problem: The government department is facing operational inefficiencies in public safety that require a technology-driven solution.
+Sector: Public Safety
+Required Technologies: GPS tracking, Predictive policing analytics
+Desired Outcome: Improve measurable outcomes related to public safety operations.
+Location: Patna"
+115,Predictive Policing for Crime Hotspots - Phase 5,The government department is facing operational inefficiencies in public safety that require a technology-driven solution.,Public Safety,"IoT emergency sensors, Predictive policing analytics",Improve measurable outcomes related to public safety operations.,Kochi,69,Minimum 3 years of experience required,"Challenge: Predictive Policing for Crime Hotspots - Phase 5
+Problem: The government department is facing operational inefficiencies in public safety that require a technology-driven solution.
+Sector: Public Safety
+Required Technologies: IoT emergency sensors, Predictive policing analytics
+Desired Outcome: Improve measurable outcomes related to public safety operations.
+Location: Kochi"
